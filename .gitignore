@@ -1,2 +1,3 @@
 tobeignored.txt
 *.log
+/log
