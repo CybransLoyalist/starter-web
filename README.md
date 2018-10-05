@@ -8,3 +8,5 @@ Sample website with plenty of files for demos
 
 #eloszka
 siemano
+siemano na śniadano
+siemano w working directory
