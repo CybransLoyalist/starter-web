@@ -11,3 +11,4 @@ siemano
 siemano na śniadano
 siemano w working directory
 copyright
+lalala
