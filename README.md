@@ -13,3 +13,6 @@ siemano w working directory
 copyright
 lalala
 asdaadsadsads
+błeeeeeee w readme
+błeeeeeee w readme
+błeeeeeee w readme
