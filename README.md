@@ -6,14 +6,4 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-#eloszka
-siemano
-siemano na śniadano
-siemano w working directory
-copyright
-lalala
-asdaadsadsads
-błeeeeeee w readme
-błeeeeeee w readme
-błeeeeeee w readme
-more changes on branch
+Sam & Dean są najlepsiejsi
